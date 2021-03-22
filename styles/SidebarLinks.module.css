@@ -1,0 +1,12 @@
+.sidebarLinks {
+  display: flex;
+  align-items: center;
+  margin: 1rem;
+}
+.sidebarLinks:hover{
+   color: rgb(24, 114, 167);
+   cursor: pointer;
+}
+.sidebarLinks__title {
+  margin-left: 1rem;
+}

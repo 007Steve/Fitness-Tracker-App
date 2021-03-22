@@ -1,0 +1,7 @@
+.sidebar{
+    background-color: aquamarine;
+    padding: 1rem;
+}
+.sidebar__img{
+    height: 45px;
+}
